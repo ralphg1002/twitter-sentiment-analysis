@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 This deisgn project enables the analysis of live tweets that are filtered using certain keywords and focuses on a completely AWS dependent pipeline to fulfill this process. AWS tools used include Kinesis Data Firehose, Lambda, Comprehend, S3, Athena, & Quicksight:
 
-![Alt text](pngs/image.png)
+![Alt text](pngs/pipeline.png)
 
 The general process flow of data is as follows:
 1) Raw tweet data is pulled with help from the Twitter API
